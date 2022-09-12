@@ -9,3 +9,5 @@ las thing
 And from me
 
 Very good:
+
+That is a test from the branch
